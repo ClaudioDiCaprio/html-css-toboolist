@@ -50,3 +50,7 @@ hr{
     border-top: 2px solid rgb(247, 248, 251);
 }
 
+.container_all {
+    width: 90%;
+    margin:auto;
+}
