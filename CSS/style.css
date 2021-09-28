@@ -59,8 +59,6 @@ hr{
     border: 1px solid rgb(117, 247, 229);
     color:rgb(117, 247, 229);
     font-size: 15px;
-    width: 25px;
-    height: 25px;
     padding: 4px;
     border-radius: 50%;
 }
@@ -72,3 +70,28 @@ hr{
     border-radius: 10px;
     padding: 5px;
 }       
+.red_cross{
+    border: 1px solid red;
+    color: red;
+    font-size: 15px;
+    padding: 4px;
+    border-radius: 50%;
+}
+
+.editorial{
+    background-color: rgb(51, 163, 255);         
+}
+.q1{
+    background-color: rgb(89, 26, 105); 
+}
+.recruiting{
+    background-color: rgb(40, 158, 113); 
+}
+.mobile{
+    background-color: rgb(255, 166, 0); 
+}
+.website{
+    background-color:rgb(202, 86, 163); 
+}
+.sales{
+    background-color: rgb(95, 162, 0);
