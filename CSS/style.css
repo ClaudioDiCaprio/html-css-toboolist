@@ -31,10 +31,10 @@ body{
     padding: 20px 80px;
 }
 
-.button{
+button{
     padding: 10px 10px;
     border-radius: 7px;
-    color: ivory;
+    color: rgb(238, 238, 232);
 }
 
 .task{
@@ -42,8 +42,9 @@ body{
     border-color: rgb(53, 141, 255);
 }
 
-section{
-
+.section{
+        background-color: white;
+        border-color:rgb(238, 238, 232) ;
 }
 hr{
     border-top: 1px solid rgb(247, 248, 251);
