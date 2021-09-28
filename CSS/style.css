@@ -25,5 +25,10 @@ body{
     height: 800px;
     margin-top: 50px;
     margin-left: 120px;
+}
 
+hr{
+    height: 1px;
+    background-color: rgb(247, 248, 251);
+    border: none;
 }
