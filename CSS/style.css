@@ -54,3 +54,21 @@ hr{
     width: 90%;
     margin:auto;
 }
+
+.green_check{
+    border: 1px solid rgb(117, 247, 229);
+    color:rgb(117, 247, 229);
+    font-size: 15px;
+    width: 25px;
+    height: 25px;
+    padding: 4px;
+    border-radius: 50%;
+}
+
+.breed{
+    text-align: center;
+    color: white; 
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 5px;
+}       
